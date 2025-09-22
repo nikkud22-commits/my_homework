@@ -27,3 +27,4 @@
 3. В "mv" ошибка в слове "расфшифровывается" лишняя буква "Ф", должно быть "расшифровывается"
 4. В "a href" указана неверная ссылка. Должна быть "../index.html"
 5. Ошибка в "Вернуся на главную", должно быть "Вернуться на главную"
+6. Отсутствуют команды Git: git init, git clone, git push, git pull, git status, git add, git commit, git branch, git checkout, git log
